@@ -1,0 +1,12 @@
+h1 {
+    background-color: cornflowerblue;
+   }
+   .heading-1{color: #c29595;}
+   h2{
+       background-color: aliceblue;
+   }
+   .heading-2{color: lightblue;}
+   #heading-id{color: lightsalmon;font-style: italic;}
+   .heading-4{color: aquamarine;font-family:monospace;}
+   .heading-5{color:khaki;background-color: beige;}
+   

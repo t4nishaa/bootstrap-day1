@@ -1,0 +1,38 @@
+.joins{
+    background-color:lightgray;
+    color:black;
+    padding:10px 20px;
+    border-radius:20px;
+    border:none;
+    font-weight: bold;
+    opacity:0.8;
+}
+
+
+.joins:hover{
+    background-color:lightgray;
+    color: black;
+    padding:10px 20px;
+    border-radius: 20;
+    opacity:1;
+    cursor:pointer;
+}
+
+
+.getitnow-btn{
+    background-color: white;
+    color: blue;
+    padding:10px 20px;
+    border-radius: 20px;
+    border:1px solid #0000ff;
+    font-weight:bold;
+}
+
+.getitnow-btn:focus{
+    background-color: lightslategrey;
+    cursor:pointer;
+
+}
+.getitnow-btn:hover{
+    background-color: grey;
+}
